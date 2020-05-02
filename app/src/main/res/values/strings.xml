@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoHoax</string>
+    <string-array name="gender">
+        <item><FONT COLOR="#000">Pilih Jenis Kelamin</FONT></item>
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+</resources>

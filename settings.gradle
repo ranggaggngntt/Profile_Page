@@ -1,0 +1,2 @@
+rootProject.name='NoHoax'
+include ':app'

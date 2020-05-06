@@ -56,14 +56,14 @@
             android:hint="No Telepon"
             android:inputType="phone"
             android:layout_margin="20dp"/>
-    <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/kirim_data"
-        android:layout_gravity="center"
-        android:layout_marginTop="50dp"
-        android:layout_width="120dp"
-        android:layout_height="wrap_content"
-        android:text="Kirim"
-        android:background="@drawable/button"
-        />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/kirim_data"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Kirim"
+            android:background="@drawable/button"
+            />
     </LinearLayout>
 </RelativeLayout>
